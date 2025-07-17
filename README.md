@@ -94,6 +94,16 @@ Welcome interface displaying season highlights such as fastest laps, number of r
 - Data professionals analyzing sports performance
 - Students and researchers interested in motorsport trends
 
+## 📬 Get in touch
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalsahil22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singhal-2b507823b/)
+
+
+## 🏆 Credits
+
+- Dataset sourced from [Kaggle](https://www.kaggle.com/)
+
 ## ♻️ Contribution & License
 
 - **Contributions** welcome via pull requests or issues.
